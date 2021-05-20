@@ -1,0 +1,1 @@
+# thermal-scanner-opencv
